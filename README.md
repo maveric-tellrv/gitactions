@@ -1,2 +1,3 @@
 # gitactions
-Playground for git actions
+Playground for git actions 
+Testing action triggers
